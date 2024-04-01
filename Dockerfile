@@ -1,5 +1,5 @@
 # Use the paretje/xz-utils image as the base image
-FROM paretje/xz-utils
+FROM Ubuntu
 
 # (Optional) Add any additional instructions for your Docker image
 # For example:
